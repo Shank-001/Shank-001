@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shank-001
-- 👀 I’m interested in Web Developement.
+- 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
 - 📫 To reach me email- patilshashank928@gmail.com
 
