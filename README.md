@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shank-001
 - 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
+- 🎯 I'm proficient in Ruby on Rails. 
 - 📫 To reach me email- patilshashank928@gmail.com
 
 <!---
